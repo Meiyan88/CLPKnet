@@ -31,9 +31,6 @@ Prediction of High-risk Recurrence Areas in Gliomas’
 ```bash
 pip install -r requirements.txt
 
-### Train model
-python train.py
 
-### Test model
-python test1.py
+python train.py 
 
