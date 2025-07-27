@@ -24,3 +24,16 @@ Prediction of High-risk Recurrence Areas in Gliomas’
 ├── test1.py # Test script
 └── requirements.txt # Python dependencies
 
+
+## Quick Start
+
+### Install Dependencies
+```bash
+pip install -r requirements.txt
+
+### Train model
+python train.py
+
+### Test model
+python test1.py
+
