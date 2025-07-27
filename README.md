@@ -15,7 +15,6 @@ Prediction of High-risk Recurrence Areas in Gliomas’
 - Grad-CAM visualization
 
 ## Directory Structure
-.
 ├── Dataprocess/ # Data processing scripts
 ├── Dataset/ # Dataset-related files
 ├── Iteration/ # Iterative training components
